@@ -44,7 +44,7 @@ body {
 
 .btn-social:hover {
     transform: scale(1.1);
-    color: white;
+    /*color: white;*/
 }
 
 /* Warna khusus untuk setiap tombol sosial media */
